@@ -1,0 +1,6 @@
+@dkc_messaging_portal.Server_HostAddress = http://localhost:5070
+
+GET {{dkc_messaging_portal.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

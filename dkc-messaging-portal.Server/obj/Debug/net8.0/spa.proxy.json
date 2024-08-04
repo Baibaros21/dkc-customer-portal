@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\AlaaHelmi\\OneDrive - BlueRidge IT FZE\\Documents\\dkc\\dkc-messaging-portal\\dkc-messaging-portal.Server\\..\\dkc-messaging-portal.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
